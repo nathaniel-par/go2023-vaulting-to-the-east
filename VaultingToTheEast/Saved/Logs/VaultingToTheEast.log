@@ -1444,3 +1444,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.09-16.31.10:372][201]LogSlate: Window 'Editor Preferences' being destroyed
 [2023.11.09-16.31.15:501][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2023.11.09-16.31.59:701][701]LogDerivedDataCache: C:/Users/orewa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 362 files in 665 folders with total size 12 MiB.
+[2023.11.09-16.36.38:635][617]LogSlate: Window 'Content Browser' being destroyed
+[2023.11.09-16.36.38:643][617]LogSlate: Window 'Content Browser' being destroyed
